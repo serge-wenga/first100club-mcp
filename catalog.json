@@ -1,0 +1,91 @@
+{
+  "store": {
+    "name": "First €100 Club",
+    "author": "Serge Wenga",
+    "url": "https://wengaserge.gumroad.com",
+    "currency": "USD",
+    "youtube_handle": "@wengaserge4550",
+    "tagline": "Beginner-friendly guides to launch your first online product and sell it honestly."
+  },
+  "products": [
+    {
+      "slug": "starter-bundle",
+      "name": "The Entrepreneur Starter Bundle: Sell Smarter + Earn Your First €100",
+      "price_usd": 11.0,
+      "pay_what_you_want": false,
+      "is_bundle": true,
+      "url": "https://wengaserge.gumroad.com/l/sjandj",
+      "format": "PDF (+ EPUB for Trust-Based Selling)",
+      "level": "Beginner",
+      "summary": "2 beginner guides in 1: build your first online product in 30 days, then learn to sell it.",
+      "includes": ["earn-first-100", "trust-based-selling"],
+      "best_for": "People who want the full journey: create a product, then sell it."
+    },
+    {
+      "slug": "earn-first-100",
+      "name": "Earn Your First €100 in 30 Days with Zero Investment",
+      "price_usd": 8.0,
+      "pay_what_you_want": false,
+      "is_bundle": false,
+      "url": "https://wengaserge.gumroad.com/l/omjeyb",
+      "format": "PDF, 34 pages",
+      "level": "Beginner",
+      "summary": "A day-by-day 30-day plan to launch your first online product, with exercises, chapter checklists, a 30-day action plan and a glossary.",
+      "best_for": "Students, people between jobs or anyone wanting extra income with no budget and no experience."
+    },
+    {
+      "slug": "trust-based-selling",
+      "name": "Trust-Based Selling: The Trust Ladder Method",
+      "price_usd": 6.0,
+      "pay_what_you_want": true,
+      "is_bundle": false,
+      "url": "https://wengaserge.gumroad.com/l/ztzba",
+      "format": "PDF + EPUB",
+      "level": "Beginner",
+      "summary": "A simple, honest 5-step method (Notice, Ask, Show, Settle, Stay) to sell more without pressure, with scripts, checklists and worksheets.",
+      "best_for": "Shopkeepers, independent workers, young entrepreneurs and beginner salespeople."
+    },
+    {
+      "slug": "free-starter-checklist",
+      "name": "Free 30-Day Starter Checklist: Launch Your First Online Product",
+      "price_usd": 0.0,
+      "pay_what_you_want": true,
+      "is_bundle": false,
+      "url": "https://wengaserge.gumroad.com/l/pxnmt",
+      "format": "PDF, 1 page",
+      "level": "Beginner",
+      "summary": "A free one-page, 4-week plan to launch your first online product.",
+      "best_for": "Anyone who wants to try before buying a guide."
+    }
+  ],
+  "promo_codes": [
+    {
+      "code": "LAUNCH15",
+      "percent_off": 15,
+      "applies_to": "all paid products",
+      "expires_at": "2026-11-12T23:59:59+00:00"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What format are the guides?",
+      "answer": "Digital PDF files, with an EPUB version for Trust-Based Selling. Instant download after purchase, readable on any device."
+    },
+    {
+      "question": "Do I need experience or a budget?",
+      "answer": "No. The guides are written for beginners and use free tools such as Canva and Gumroad."
+    },
+    {
+      "question": "Can I try something for free first?",
+      "answer": "Yes. The Free 30-Day Starter Checklist is a one-page plan you can download at no cost."
+    },
+    {
+      "question": "Are earnings guaranteed?",
+      "answer": "No. Results vary depending on effort, consistency and individual circumstances. No specific earnings are guaranteed."
+    },
+    {
+      "question": "How do I buy?",
+      "answer": "Each product has its own Gumroad page. Open the link, click the buy button and pay on Gumroad. This server never takes payments."
+    }
+  ]
+}
